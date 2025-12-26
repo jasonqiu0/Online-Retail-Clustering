@@ -1,0 +1,9 @@
+.venv/*
+*.xlsx
+data/*
+data/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.DS_Store
+.vscode/
